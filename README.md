@@ -16,6 +16,11 @@ SELECT COUNT(*) FROM dbo.SalesData;
 
 Run the included queries at the bottom of the script to see grouped totals and top cities.
 
+### OR
+
+Use SQL_with_copilot.sql to create dataset.
+
+Use dataset then follow on with queies of city_sales_queries.sql and customers_above_avg.sql. 
 
 ## The excel file was solved by CO-Pilot and worksheets were created.
 
